@@ -1,0 +1,7 @@
+C:\Users\biabo\Documents\Projects\Projeto-Biblioteca\Proj. Biblioteca\bin\Debug\Proj.Biblioteca.exe.config
+C:\Users\biabo\Documents\Projects\Projeto-Biblioteca\Proj. Biblioteca\bin\Debug\Proj.Biblioteca.exe
+C:\Users\biabo\Documents\Projects\Projeto-Biblioteca\Proj. Biblioteca\bin\Debug\Proj.Biblioteca.pdb
+C:\Users\biabo\Documents\Projects\Projeto-Biblioteca\Proj. Biblioteca\obj\Debug\Proj. Biblioteca.csproj.AssemblyReference.cache
+C:\Users\biabo\Documents\Projects\Projeto-Biblioteca\Proj. Biblioteca\obj\Debug\Proj. Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\biabo\Documents\Projects\Projeto-Biblioteca\Proj. Biblioteca\obj\Debug\Proj.Biblioteca.exe
+C:\Users\biabo\Documents\Projects\Projeto-Biblioteca\Proj. Biblioteca\obj\Debug\Proj.Biblioteca.pdb
